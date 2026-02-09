@@ -2,3 +2,6 @@ aiogram==2.25.1
 aiohttp>=3.8.0,<3.9.0
 psycopg2-binary>=2.9.9,<3.0.0
 requests>=2.32.0,<3.0.0
+
+
+flyctl secrets set BOT_TOKEN="7950038187:AAHXNvffqkQJ7JXCk7hecWjz-4HGxMppUlE" CHANNEL_ID="-1003736074927" DB_HOST="HOST" DB_NAME="NAME" DB_USER="USER" DB_PASSWORD="PASS" DB_PORT="5432"
